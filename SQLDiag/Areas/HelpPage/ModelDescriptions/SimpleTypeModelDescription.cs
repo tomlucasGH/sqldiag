@@ -1,0 +1,6 @@
+namespace SQLDiag.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
